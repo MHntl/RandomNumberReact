@@ -1,6 +1,6 @@
-# QuoteGen React
+# RandomNumberReact
 
-<h1>Javascript Quote Generator App</h1>
+<h1>Javascript Random Number Generator App with React</h1>
 
 <h4>React have been used in this project.</h4>
 
